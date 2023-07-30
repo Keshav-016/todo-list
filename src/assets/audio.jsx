@@ -11,11 +11,11 @@ const PodcastPlayer = (props) => {
   const [podcastData, setPodcastData] =
         useState([
             {
-                "title": "NCS - test",
+                "title": "Relax your mood",
                 "url": ""
             },
             {
-                "title": "Smoke",
+                "title": "I ain't worried",
                 "url": ""
             }]
         );
